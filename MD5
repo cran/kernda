@@ -1,0 +1,15 @@
+2fc76e7ddb2560aa12e9c8885148bd85 *DESCRIPTION
+eccdaf4a22617efe06834c9b54b5f9cc *NAMESPACE
+4a1bebaf2b0d7132d40138ca4e1744e1 *R/RcppExports.R
+b32f3fd201e3c56ab2374a2c8848fe11 *R/cv.kdeda.R
+3588b04f363c131bbec8d16a2935e8fa *R/cv.lrkde.R
+5a329e079b9e72b415618326fb22ab5b *R/lr.kde.R
+eac9f3df3d94c7a1e9c3ea97596e670d *R/lr.kde2.R
+9079744144723430e8ab4b3dda19a893 *R/lr.kde3.R
+73e1a1ad1fb1843830b4d5d465cf237d *man/cv.kdeda.Rd
+d4d211e3fcd1e4eb201711774d57b790 *man/cv.lrkde.Rd
+6e3163bcc4a1cb0025f1e71e0c52c0b0 *man/kde_da.Rd
+428951fa9519d3f7dd9f60fee8bfb66c *man/kernda-package.Rd
+ab4344e18e375e69c98d949b6eeedea2 *man/lr.kde.Rd
+777102317e9fbdb387fc7be62b92788a *src/RcppExports.cpp
+8772c1b133e01c2d5ac43300aa84dc9b *src/kde_da_cv.cpp
