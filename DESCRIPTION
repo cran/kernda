@@ -1,8 +1,8 @@
 Package: kernda
 Type: Package
 Title: Kernel Discriminant Analysis
-Version: 1.0
-Date: 2026-06-29
+Version: 1.1
+Date: 2026-11-19
 Authors@R: c( person("Michail", "Tsagris", role = c("aut", "cre"), email = "mtsagris@uoc.gr"), 
               person( "Nikolaos", "Kontemeniotis", role = "aut", email = "kontemeniotisn@gmail.com" ) )
 Author: Michail Tsagris [aut, cre],
@@ -15,6 +15,6 @@ Description: Functions to perform discriminant analysis using kernel density est
 License: GPL (>= 2)
 RoxygenNote: 7.3.3
 NeedsCompilation: yes
-Packaged: 2026-06-29 11:40:13 UTC; mtsag
+Packaged: 2026-11-19 06:31:16 UTC; mtsag
 Repository: CRAN
-Date/Publication: 2026-07-04 08:40:13 UTC
+Date/Publication: 2026-11-19 07:40:02 UTC
